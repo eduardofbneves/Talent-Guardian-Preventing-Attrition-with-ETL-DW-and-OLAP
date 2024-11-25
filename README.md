@@ -16,7 +16,7 @@ This work had a focus on the DW building and SQL queries, hence there is not man
 
 ## **Authors and Acknowledgment**
 
-Project Title was created by **[Eduardo Neves](https://github.com/eduardofbneves)**,  **[Frederico Cardoso](https://github.com/fredcardoso94)** and **[Naomi Esposito](https://github.com/Naomiamii).
+Project Title was created by **[Eduardo Neves](https://github.com/eduardofbneves)**,  **[Frederico Cardoso](https://github.com/fredcardoso94)** and **[Naomi Esposito](https://github.com/Naomiamii)**.
 
 ## **Conclusion**
 
